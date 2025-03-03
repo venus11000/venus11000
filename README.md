@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning System design.
 - 💞️ I’m looking to collaborate on Full Stack work and I have expertise in Frontend in react.js and redux.
 - 📫 How to reach me 
-    - LinkedIn: https://www.linkedin.com/in/venu-gopal-590258122/
+    - LinkedIn: https://www.linkedin.com/in/venugopala-s/
     - can call me 8495030355
     - or mail me venugopala11000@gmail.com
 
